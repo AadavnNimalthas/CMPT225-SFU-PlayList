@@ -2,8 +2,6 @@
 // Author: John Edgar
 // Date: May 2022
 
-/// DO NOT CHANGE CODE
-
 #include "Song.h"
 #include<stdexcept>
 
